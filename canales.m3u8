@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,Azteca Uno
-https://us-b4-p-e-ml19.cdn.mdstrm.com/live-stream/69f3c2647c4b66af034a67a5/publish/media_2650.m3u8?aid=5fea09a071a9945deebf5f7c&dnt=true&access_token=KQGTcYguQmKUkwMW0VtgXcwclT27pKvk0E8g9kNtosZ8Q3oQ4SyjLTHiFCP97GR6RTtctRQLqDi&uid=EX7PkWc5fSocHmu9jgIwc9kFy1RX28wB&sid=2FJh134e0cYzbz1rJUljJQA54ylOM0M9&pid=oArNsPEE3rwJHueoRCajNxrNSDvJ6I4S&ref=envivo.tvazteca.com&ext_pb=0&es=us-b4-p-e-ml19.cdn.mdstrm.com&ote=1780322518201&ot=_YjjnLM3h6WVy3p0Lb7EJQ&proto=https&pz=us&CMCD=cid%3D%2269f3c2647c4b66af034a67a5%22%2Cmtp%3D12600%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22oArNsPEE3rwJHueoRCajNxrNSDvJ6I4S%22
-
 #EXTINF:-1,ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
 
@@ -11,9 +8,6 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1,Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-
-#EXTINF:-1,Canal 5
-https://regionales.saohgdasregions.fun:9092/MzguMTkuMTExLjEwNA==/2_.m3u8?token=YEpHNk7zCI-Gm7rH5DV6Mw&expires=1780279509
 
 #EXTINF:-1,Azteca 7
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
