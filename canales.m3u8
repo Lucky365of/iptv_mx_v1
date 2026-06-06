@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,Azteca Uno Internacional
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
 #EXTINF:-1,ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
 
@@ -9,8 +12,23 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1,Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
+#EXTINF:-1,Las Estrellas (2)
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
+
 #EXTINF:-1,Azteca 7
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+
+#EXTINF:-1,Nickelodeon
+https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
+
+#EXTINF:-1,Disney JR
+http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1,Memorias TV TOON
+https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
+
+#EXTINF:-1,El Chavo TV
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 
 #EXTINF:-1,Imagen TV
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
@@ -30,15 +48,38 @@ https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
 #EXTINF:-1,Multimedios CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,Teleritmo
-https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
-
 #EXTINF:-1,UMTV MX
 https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,AMX Noticias
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1,TeleMundo Romance
+https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1,Televisa Telenovelas
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Platzi TV
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+
+#EXTINF:-1,Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
+
 #EXTINF:-1,Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1,Cine Sony (2)
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1,DePelicula
+http://200.115.120.1:8000/play/ca030/index.m3u8
+
+#EXTINF:-1,Anime Vision
+https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
+
+#EXTINF:-1,Anime Vision Classic
+https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
+
+
 
