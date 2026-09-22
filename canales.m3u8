@@ -1,94 +1,130 @@
 #EXTM3U
 
-#EXTINF:-1,Azteca Uno MX
-https://us-b4-p-e-jn18.cdn.mdstrm.com/live-stream-gdai/67da2951a9abb4cba6221759/linear/hls/pa/event/dQQwxiRsQDaWE2z59xVZhw/stream/deefa0d1-79de-4da0-a56c-7369c2089b62:CHS/variant/46ead5365fe52b153e0183b5beccceaa/bandwidth/950400.m3u8?aid=5fea09a071a9945deebf5f7c&dnt=true&access_token=YFJRkzVq2u8y7jc38xbI7nrSutZDCjFZnDNWOOt5DB7iVOnMKh9Og0jAYj5PXNNd9wvRxzlO6RU&uid=t7toZdbjGhmi8lDuzwrmxCsOJgycA9pN&sid=cMjy4m48eiP5uXyGFf11d7DqI75Eforv&pid=h5tBQCbSswpnwXeZlY8M6LifmkhWRBce&ref=mdstrm.com&ext_pb=0&CMCD=cid%3D%2267da2951a9abb4cba6221759%22%2Cmtp%3D1000%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22h5tBQCbSswpnwXeZlY8M6LifmkhWRBce%22%2Csu&adInsertionGoogleStreamId=deefa0d1-79de-4da0-a56c-7369c2089b62%3ACHS&es=us-b4-p-e-jn18.cdn.mdstrm.com&ote=1781026205959&ot=af0fnobmDQnFKyeARzCq4g&proto=https&pz=us
-
-#EXTINF:-1,Azteca Uno Internacional
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-
-#EXTINF:-1,Azteca Uno
-http://starlatino.tv:8880/RobertoE2026/PEcKc4ymnFyq/534768
-
-#EXTINF:-1,ADN 40
-http://starlatino.tv:8880/RobertoE2026/PEcKc4ymnFyq/534776
-
-#EXTINF:-1,ADN 40 (2)
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-
-#EXTINF:-1,Las Estrellas
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-
-#EXTINF:-1,Las Estrellas (2)
-http://starlatino.tv:8880/RobertoE2026/PEcKc4ymnFyq/534766
-
-#EXTINF:-1,Azteca 7
-http://starlatino.tv:8880/RobertoE2026/PEcKc4ymnFyq/534772
-
-#EXTINF:-1,Nickelodeon
-https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
-
-#EXTINF:-1,FORO TV
-http://starlatino.tv:8880/RobertoE2026/PEcKc4ymnFyq/534775
-
-#EXTINF:-1,Disney JR
-http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1,Memorias TV TOON
-https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
-
-#EXTINF:-1,El Chavo TV
-https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
-
-#EXTINF:-1,Imagen TV
-http://starlatino.tv:8880/RobertoE2026/PEcKc4ymnFyq/534774
-
-#EXTINF:-1,A+
-http://starlatino.tv:8880/RobertoE2026/PEcKc4ymnFyq/534791
-
-#EXTINF:-1,Canala Once MX
-https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
-
-#EXTINF:-1,Milenio Noticias
-https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-
-##EXTINF:-1,SMRT MX
-https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
-
-#EXTINF:-1,Multimedios CDMX
-https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,UMTV MX
-https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,AMX Noticias
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,TeleMundo Romance
-https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
-
-#EXTINF:-1,Televisa Telenovelas
-https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1,Platzi TV
-https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
-
-#EXTINF:-1,Teleritmo
-https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,Cine Sony
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-
-#EXTINF:-1,Cine Sony (2)
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-
-#EXTINF:-1,DePelicula
-http://200.115.120.1:8000/play/ca030/index.m3u8
-
-#EXTINF:-1,Anime Vision
-https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
-
-#EXTINF:-1,Anime Vision Classic
-https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="MX | CANAL DE LAS ESTRELLAS OP2" tvg-logo="http://redworld.pro:8880/images/894a70f37f59ac14d4042b1dba66ea00.png" group-title="⭐️ México",MX | CANAL DE LAS ESTRELLAS OP2
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534766.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | CANAL DE LAS ESTRELLAS OP3" tvg-logo="http://redworld.pro:8880/images/894a70f37f59ac14d4042b1dba66ea00.png" group-title="⭐️ México",MX | CANAL DE LAS ESTRELLAS OP3
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534767.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | 01 • AZTECA UNO" tvg-logo="http://redworld.pro:8880/images/2487746efe0de2d02265bb9f5262e078.png" group-title="⭐️ México",MX | 01 • AZTECA UNO
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534768.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | AZTECA UNO OP2" tvg-logo="http://redworld.pro:8880/images/2487746efe0de2d02265bb9f5262e078.png" group-title="⭐️ México",MX | AZTECA UNO OP2
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534769.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | CANAL 5+ OP2" tvg-logo="http://redworld.pro:8880/images/7c5f138da031d6efef359be7ce395d48.png" group-title="⭐️ México",MX | CANAL 5+ OP2
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534770.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | AZTECA 7 OP1" tvg-logo="http://redworld.pro:8880/images/3a1aedf21b4c1c6d640c5a73f62d0e86.png" group-title="⭐️ México",MX | AZTECA 7 OP1
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534771.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | AZTECA 7 OP2" tvg-logo="http://redworld.pro:8880/images/3a1aedf21b4c1c6d640c5a73f62d0e86.png" group-title="⭐️ México",MX | AZTECA 7 OP2
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534772.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | IMAGEN TELEVISION OP1" tvg-logo="http://redworld.pro:8880/images/3af751f9a6edfd18d62b3c62d537dd59.png" group-title="⭐️ México",MX | IMAGEN TELEVISION OP1
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534774.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | FORO TV OP1" tvg-logo="http://redworld.pro:8880/images/d2873c21020a5f7e72e448bd7e65c205.png" group-title="⭐️ México",MX | FORO TV OP1
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534775.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | ADN 40 OP1" tvg-logo="http://redworld.pro:8880/images/6b6a99ae85088bf784c9900899d8fcf9.png" group-title="⭐️ México",MX | ADN 40 OP1
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534776.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | ADN 40 OP2" tvg-logo="http://redworld.pro:8880/images/6b6a99ae85088bf784c9900899d8fcf9.png" group-title="⭐️ México",MX | ADN 40 OP2
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534777.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | NU9VE OP1" tvg-logo="http://redworld.pro:8880/images/f9beba5fea8179aef7979f7bce7557bd.png" group-title="⭐️ México",MX | NU9VE OP1
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534778.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | DISTRITO COMEDIA OP1" tvg-logo="http://redworld.pro:8880/images/97d0f28a2d3f59df709661f256b9b753.png" group-title="⭐️ México",MX | DISTRITO COMEDIA OP1
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534779.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | DISTRITO COMEDIA OP2" tvg-logo="http://redworld.pro:8880/images/97d0f28a2d3f59df709661f256b9b753.png" group-title="⭐️ México",MX | DISTRITO COMEDIA OP2
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534780.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | DISTRITO COMEDIA OP3" tvg-logo="http://redworld.pro:8880/images/97d0f28a2d3f59df709661f256b9b753.png" group-title="⭐️ México",MX | DISTRITO COMEDIA OP3
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534781.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | UNICABLE OP2" tvg-logo="http://redworld.pro:8880/images/81a8a63f9cfd3c8dbd9aa33b4949e5e0.png" group-title="⭐️ México",MX | UNICABLE OP2
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534783.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | TL NOVELAS" tvg-logo="http://redworld.pro:8880/images/7cc78a42ec1ce6a16ea08ceacdc2dd25.png" group-title="⭐️ México",MX | TL NOVELAS
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534784.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | AZ MUNDO" tvg-logo="http://redworld.pro:8880/images/8bebeb502027b3d6eb16e19f0ced3499.png" group-title="⭐️ México",MX | AZ MUNDO
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534785.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | AZ CINEMA" tvg-logo="http://redworld.pro:8880/images/bd65143c223736937a94fd8c5aecb24b.png" group-title="⭐️ México",MX | AZ CINEMA
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534786.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | AZ CLIC" tvg-logo="http://redworld.pro:8880/images/4e2199d5c23700b0b54c2383b522184a.png" group-title="⭐️ México",MX | AZ CLIC
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534787.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | CANAL 6 MULTIMEDIOS" tvg-logo="http://redworld.pro:8880/images/d6f92508cfc42fd3861eabc720d3fe96.png" group-title="⭐️ México",MX | CANAL 6 MULTIMEDIOS
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534788.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | CANAL ONCE NACIONAL" tvg-logo="http://redworld.pro:8880/images/c8dcb6cc1425cd9de310d8eda1bed231.png" group-title="⭐️ México",MX | CANAL ONCE NACIONAL
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534789.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | HOLA TV" tvg-logo="http://redworld.pro:8880/images/8c719c19c406ff800c60130a594a21ec.png" group-title="⭐️ México",MX | HOLA TV
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534790.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | A+" tvg-logo="http://redworld.pro:8880/images/ef7c9461a72bfa1407826f02088236ac.png" group-title="⭐️ México",MX | A+
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534791.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | ALCARRIA TV" tvg-logo="http://redworld.pro:8880/images/a08b21c5f6983666a0a9e8ed7218f6bd.png" group-title="⭐️ México",MX | ALCARRIA TV
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534792.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | CANAL 10 CANCUN" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ México",MX | CANAL 10 CANCUN
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534793.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | MEXIQUENSE TV" tvg-logo="http://redworld.pro:8880/images/bf93b4d64ff458098826860e4b945fc1.png" group-title="⭐️ México",MX | MEXIQUENSE TV
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534794.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | MAS CHIC" tvg-logo="http://redworld.pro:8880/images/ffa6d65bbbcdbda230c37ff5a49ca239.png" group-title="⭐️ México",MX | MAS CHIC
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534795.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | MILENIO HD" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ México",MX | MILENIO HD
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534796.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Teleformula" tvg-logo="http://redworld.pro:8880/images/45d417a5f2fad42a3f707b46b1331816.png" group-title="⭐️ México",MX Teleformula
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534797.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | AZTECA CLIC" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ México",MX | AZTECA CLIC
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534798.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | AZ MUNDO" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ México",MX | AZ MUNDO
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534799.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | TELEVISA PUEBLA" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ México",MX | TELEVISA PUEBLA
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | ALCANCE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV4aAtmKnHL3mADcP2kkREw4srHVC0r3rYSA&s" group-title="⭐️ México",MX | ALCANCE TV
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534801.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | AMX NOTICIAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXYlyPSJrzQiDmNHeK306g-gZxRbEyNT6ITw&s" group-title="⭐️ México",MX | AMX NOTICIAS
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534802.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | CANAL 44" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo0b0YaeJZsf3VYeAyKZUc-SLjZfeqaYQj-Q&s" group-title="⭐️ México",MX | CANAL 44
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534803.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | ILCE TV" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ México",MX | ILCE TV
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534804.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX UNIVISION NOTICIAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbUosVlbnYJnLvdrLrokjyX_M4lnNphe7_SQ&s" group-title="⭐️ México",MX UNIVISION NOTICIAS
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534805.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | Canal 22 Jalisco YV" tvg-logo="http://redworld.pro:8880/images/69632d7f984236830410b1e3d8bc477b.png" group-title="⭐️ México",MX | Canal 22 Jalisco YV
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534806.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="8NTV (MX)" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ México",8NTV (MX)
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534807.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA TV (MX)" tvg-logo="http://127.0.0.1/" group-title="⭐️ México",ANTENA TV (MX)
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534808.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | 4 GUADALAJARA" tvg-logo="https://yt3.googleusercontent.com/phG3wG22EQSsOC2CfDu6hemmIUblbSOZFra0qoed_-l7DlshAtMxqb0S6mgkbXMsWNtem4hS=s900-c-k-c0x00ffffff-no-rj" group-title="⭐️ México",MX | 4 GUADALAJARA
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534809.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX: CINE MEXICANO" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ México",MX: CINE MEXICANO
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534810.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="a más +" tvg-logo="http://novabox.club:80/images/6v55_crIG8GngvBc5xCq9bJ8cGtWKemdPKiY1Bw6VmPDWgTGL4pNYK4aD-7RxczsBOwNLDGoH_F-984kivF5VC8o9JvNrhA9FAlPox9BKaE.jpg" group-title="⭐️ México",a más +
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534813.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL ONCE OP1" tvg-logo="http://redworld.pro:8880/images/1f93df939b2826d34d67fab28ff87b44.png" group-title="⭐️ México",CANAL ONCE OP1
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534814.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEX II AZTECA INTERNACIONAL HD (PP)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs-Wfr_kRdeHrHpDDyPZ-O__nV2Vm57Wj6oqHovOzBlw&s" group-title="⭐️ México",MEX II AZTECA INTERNACIONAL HD (PP)
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534815.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | UMTV | MX" tvg-logo="http://redworld.pro:8880/images/3ae6ba11d11a7b950d343f573b354b2a.png" group-title="⭐️ México",MX | UMTV | MX
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534816.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | Bandamax Hd®" tvg-logo="http://redworld.pro:8880/images/3ae6ba11d11a7b950d343f573b354b2a.png" group-title="⭐️ México",MX | Bandamax Hd®
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534817.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | AZ Mundo Hd®" tvg-logo="http://redworld.pro:8880/images/3ae6ba11d11a7b950d343f573b354b2a.png" group-title="⭐️ México",MX | AZ Mundo Hd®
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534818.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="http://redworld.pro:8880/images/4819f8c63a16d13f9f52cbe5ea3be3b1.png" group-title="⭐️ México",SYFY HD
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534819.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | E! ENTERTAINMENT HD" tvg-logo="http://redworld.pro:8880/images/13e13f8201410be8b597098322cbf3eb.png" group-title="⭐️ México",MX | E! ENTERTAINMENT HD
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534820.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX |* DISCOVERY TLC FHD" tvg-logo="http://redworld.pro:8880/images/a08e51db65905e05929c38ec7af217f1.png" group-title="⭐️ México",MX |* DISCOVERY TLC FHD
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534822.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="http://redworld.pro:8880/images/8d977b8d465c9db48d7ece30651d2605.png" group-title="⭐️ México",CINEMAX
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534823.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Coral TV (480p)" tvg-logo="http://onerestream.us:80/images/YNKPF0uS6GOfopdjzrfmIHvBimC8Hdfh4mjE8mP6rmNugQKXWV8dPh_ICEZ4ZF5S.png" group-title="⭐️ México",Coral TV (480p)
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534825.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Conecta TV" tvg-logo="http://onerestream.us:80/images/5yO0q3KiCJJhxVmvmdRMb7sfdzI5SlxnY0IfVfXXJW0.png" group-title="⭐️ México",Conecta TV
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534826.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Classic Arts Showcase" tvg-logo="http://onerestream.us:80/images/5yO0q3KiCJJhxVmvmdRMbyCu7zjBncI-MTQR5K1CEk4.png" group-title="⭐️ México",Classic Arts Showcase
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534828.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tele Yucatán" tvg-logo="https://yt3.googleusercontent.com/7ShsIkAKLC-HyoKQwSKVaujG6IN8cOrCxfeEUFnUGtoVRZVLKuhgH43UlZG2oKE6FDHawAptJCE=s900-c-k-c0x00ffffff-no-rj" group-title="⭐️ México",Tele Yucatán
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534830.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVP MAZATLAN" tvg-logo="http://redworld.pro:8880/images/c4ca4238a0b923820dcc509a6f75849b.png" group-title="⭐️ México",TVP MAZATLAN
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534832.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEVISA MONTERREY" tvg-logo="http://127.0.0.1/" group-title="⭐️ México",TELEVISA MONTERREY
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534834.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MULTIMEDIOS JUAREZ" tvg-logo="http://127.0.0.1/" group-title="⭐️ México",MULTIMEDIOS JUAREZ
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534837.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MULTIMEDIOS GUADALAJARA" tvg-logo="http://127.0.0.1/" group-title="⭐️ México",MULTIMEDIOS GUADALAJARA
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534838.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA INTERNACIONAL" tvg-logo="http://127.0.0.1/" group-title="⭐️ México",AZTECA INTERNACIONAL
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534843.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MILENIO" tvg-logo="http://127.0.0.1/" group-title="⭐️ México",MILENIO
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534844.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX GOURMET" tvg-logo="http://127.0.0.1/" group-title="⭐️ México",MX GOURMET
+http://starlatino.tv:8880/live/RobertoE2026/PEcKc4ymnFyq/534847.m3u8
